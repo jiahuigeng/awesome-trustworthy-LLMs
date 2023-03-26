@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-This repository contains a collection of resources and papers on *** trustworthy Large Language Models ***.
+This repository contains a collection of resources and papers on ***trustworthy Large Language Models***.
 
 ## Contents
 - [Resources](#resources)
@@ -28,7 +28,7 @@ This repository contains a collection of resources and papers on *** trustworthy
 
 **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity** \
 *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung* \
-28 Feb 2023. [[Paper](https://arxiv.org/abs/2302.04023)] \
+28 Feb 2023. [[Paper](https://arxiv.org/abs/2302.04023)] 
 
 ## Explainability
 
@@ -36,19 +36,22 @@ This repository contains a collection of resources and papers on *** trustworthy
 
 **Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks** \
 *Daniel Kang, Xuechen Li, Ion Stoica, Carlos Guestrin, Matei Zaharia, Tatsunori Hashimoto* \
-11 Feb 2023. [[Paper](https://arxiv.org/abs/2302.05733)] \
+11 Feb 2023. [[Paper](https://arxiv.org/abs/2302.05733)] 
 
 
 
 **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models** \
 *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, Mario Fritz* \
-23 Feb 2023. [[Paper](https://arxiv.org/abs/2302.12173)] \
-
+23 Feb 2023. [[Paper](https://arxiv.org/abs/2302.12173)] 
 
 **Ignore Previous Prompt: Attack Techniques For Language Models** \
 *Fábio Perez, Ian Ribeiro*
 17 Nov 2022 [[Paper](https://arxiv.org/abs/2211.09527)]
 ## Robustness
+
+*Adversarial Prompting for Black Box Foundation Models***
+*Natalie Maus, Patrick Chao, Eric Wong, Jacob Gardner*
+8 Feb 2023 [[Paper](https://arxiv.org/abs/2302.04237)]
 
 ## Privacy
 
