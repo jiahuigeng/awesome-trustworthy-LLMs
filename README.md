@@ -55,5 +55,10 @@ This repository contains a collection of resources and papers on ***trustworthy 
 
 ## Privacy
 
+**On the Feasibility of Specialized Ability Stealing for Large Language Code Models** \
+*Zongjie Li, Chaozheng Wang, Pingchuan Ma, Chaowei Liu, Shuai Wang, Daoyuan Wu, Cuiyun Gao* \
+6 Mar 2023. [[Paper](https://arxiv.org/abs/2303.03012)] 
+
+
 ## Fairness
 
