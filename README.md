@@ -43,6 +43,7 @@ Tatsunori Hashimoto, Christopher Ré,
 
 ## Security
 
+
 **Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks** \
 *Daniel Kang, Xuechen Li, Ion Stoica, Carlos Guestrin, Matei Zaharia, Tatsunori Hashimoto* \
 11 Feb 2023. [[Paper](https://arxiv.org/abs/2302.05733)] 
@@ -103,6 +104,12 @@ Jan 2023 [[Paper](Can Foundation Models Help Us Achieve Perfect Secrecy?)]
 **Reconstruction Attack on Instance Encoding for Language Understanding** \
 *Shangyu Xie, Yuan Hong* \
 EMNLP 2021 [[Paper](https://aclanthology.org/2021.emnlp-main.154/)]
+
+**Privacy Risks of General-Purpose Language Models**
+
+**On a Utilitarian Approach to Privacy Preserving Text Generation**
+
+**TextHide: Tackling Data Privacy in Language Understanding Tasks**
 
 **Comprehensive Privacy Analysis of Deep Learning**\
 *Milad Nasr, Reza Shokri, Amir Houmansadr*\
